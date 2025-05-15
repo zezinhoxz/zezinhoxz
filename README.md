@@ -14,10 +14,9 @@
 
 ## Contate-me
 <div>
-  <a href="https://gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
-
 
 <!--
 **zezinhoxz/zezinhoxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
